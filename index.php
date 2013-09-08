@@ -91,7 +91,7 @@
     </div>
 
       <br><br>
-      <center><a href="gameoflife.zip" style="color:#ddd">Click here for the sources</a></center>    
+      <center><a href="https://github.com/nreijmersdal/gameoflife/" style="color:#ddd">Click here for the sources on github</a></center>    
       <br><br>
       <center>
         <script type="text/javascript"><!--
